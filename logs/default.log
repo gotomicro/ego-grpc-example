@@ -1,0 +1,7 @@
+2021-04-16 17:08:01	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:09:28	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:10:33	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:10:55	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:11:52	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:12:15	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
+2021-04-16 17:12:27	[31mERROR[0m	elog/api.go:49	startup                         	{"error": "rpc error: code = Unavailable desc = error"}
